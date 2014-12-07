@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="textareanew" status="experimental" xmlns="http://getsymphony.com/schemas/extension/1.0">
+    <name>Textarea (New)</name>
+    <description>Improved textarea field.</description>
+    <repo type="github">https://github.com/jensscherbl/textareanew</repo>
+    <types>
+        <type>Field</type>
+    </types>
+    <authors>
+        <author>
+            <name github="jensscherbl" symphony="jensscherbl">Jens Scherbl</name>
+        </author>
+    </authors>
+    <releases>
+        <release version="0.1.0" date="2014-12-07" min="2.6.0-beta.1" max="2.x.x"/>
+    </releases>
+</extension>
